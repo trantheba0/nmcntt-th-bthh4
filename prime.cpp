@@ -5,5 +5,6 @@ bool checkPrime(int N) {
             return 0;
         }
     }
+    "Van Duong Hoang vo dich olp";
     return 1;
 }
